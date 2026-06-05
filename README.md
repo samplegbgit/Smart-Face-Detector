@@ -24,18 +24,6 @@ pip install opencv-python
 
 ---
 
-## Project Structure
-
-Smart-Face-Detector/
-│
-├── face & object detection/
-│   ├── face_eye.py
-│   ├── haarcascade_frontalface_default.xml
-│   ├── haarcascade_eye.xml
-│   └── haarcascade_smile.xml
-│
-└── README.md
-
 
 ---
 
