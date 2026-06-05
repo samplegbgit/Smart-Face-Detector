@@ -32,7 +32,7 @@ pip install opencv-python
 Run the project using:
 
 ```bash
-python "face & object detection/face_eye.py"
+python "face & object detection/face_eye_smile.py"
 ```
 
 ---
