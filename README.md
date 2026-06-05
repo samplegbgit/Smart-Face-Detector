@@ -46,6 +46,7 @@ Press **Q** to exit the webcam window
 ## Important Notes
 
 Keep XML files inside `face & object detection` folder
+
 Make sure webcam is enabled
 
 ---
